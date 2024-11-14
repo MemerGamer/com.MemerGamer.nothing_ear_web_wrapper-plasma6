@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "MemerGamer"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "A KDE plasma widget that is a wrapper for the ear-web website",
+        "Icon": "applications-internet",
+        "Id": "com.MemerGamer.nothing_ear_web_wrapper-plasma6",
+        "License": "GPL-2.0+",
+        "Name": "Nothing_Ear_Web_Wrapper",
+        "Website": "https://github.com/MemerGamer/com.MemerGamer.nothing_ear_web_wrapper-plasma6.git",
+        "github": "https://github.com/MemerGamer/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
